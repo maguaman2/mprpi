@@ -11,3 +11,8 @@
 #### variables:
 - [Repaso variables, if, String](repaso/Repaso01.java)
 
+## Tareas Resueltas
+### Clase Semana 13
+#### variables:
+- [Validación de email](tareas/Tarea13.java)
+
