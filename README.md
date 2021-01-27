@@ -5,6 +5,12 @@
 - [Ejemplo de sentencia IF y IF..ELSE](Ejercicios/Ejercicio01.java)
 #### Estucturas de control:
 - [Clase String y Math](Ejercicios/Ejercicio02.java)
+#### Break y continue:
+- [Break y Continue](Ejercicios/BreakContinue.java)
+#### Manejo de errores (Excepction):
+- [Exception](Ejercicios/ManejoErrores.java)
+#### Menu con Do While:
+- [Menu](Ejercicios/Menu.java)
 
 ## Repasos
 ### Clase Semana 14
